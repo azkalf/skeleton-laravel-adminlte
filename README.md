@@ -7,3 +7,16 @@ This Skeleton App using technologies:
 - Bootstrap iconpicker http://victor-valencia.github.io/bootstrap-iconpicker/
 - jQuery treeview
 - and many other technologies included in AdminLTE themes ex:fontawesome, ionicon, etc.
+
+How To Use
+- create database in your sql.
+- setting up your database configuration in .env file.
+- run migration with command 'php artisan migrate' in your root folder.
+
+Any suggestion send to saklu07@gmail.com
+
+
+regards.
+
+Azkal Fikri
+http://azkalf.machinetik.com
