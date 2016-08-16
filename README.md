@@ -6,3 +6,4 @@ This Skeleton App using technologies:
 - AdminLTE https://almsaeedstudio.com/
 - Bootstrap iconpicker http://victor-valencia.github.io/bootstrap-iconpicker/
 - jQuery treeview
+- and many other technologies included in AdminLTE themes ex:fontawesome, ionicon, etc.
