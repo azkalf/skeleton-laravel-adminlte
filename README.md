@@ -13,6 +13,8 @@ How To Use
 - create database in your sql.
 - setup your database configuration in .env file (see .env.example).
 - run migration with command 'php artisan migrate' in your root folder.
+- run server host with command 'php artisan serve'
+- open in your browser localhost:8000
 
 User Role
 - You can login with superadmin privilege: username: superadmin | password: rahasiasuper
